@@ -22,7 +22,8 @@ OpenCV, Dlib을 활용하여, 실시간 영상에서 등장하는 인물의 얼�
 <img src="https://user-images.githubusercontent.com/121751256/218765768-e1fd478e-ef74-48a0-8ce1-e06fbd8f399f.jpg" width="70%" height="70%"/>  
 <img src="https://user-images.githubusercontent.com/121751256/218762789-3c56d7c3-f80c-489a-97c6-12421cbcf4ea.gif" width="70%" height="70%"/>  
 <img src="https://user-images.githubusercontent.com/121751256/218763779-cdb85641-71d8-42a1-a71b-22dfdfd9a14a.gif" width="70%" height="70%"/>
-# 📌Art review of AI, 2019
+# 📌Art review of AI, 2020
+[졸업논문 ](https://drive.google.com/file/d/10yzy0VoKNNwuCKy-xZFnNRoGpj2skwA3/view?usp=share_link)  
 [Project PDF Download Link](https://drive.google.com/file/d/1mqJIqh-V7GCn_j1yT2QrJLMcszOv0OAX/view?usp=share_link)  
 해당 프로젝트에서는 설문조사를 통해 얻은 추상화 감상평 데이터를 토대로  
 딥러닝 모델을 학습하여 주체적으로 추상화에 대한 감상평을 내리는 연구를 진행하였습니다.  
